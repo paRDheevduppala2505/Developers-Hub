@@ -1,0 +1,217 @@
+* {
+    text-decoration: none;
+}
+
+nav {
+    list-style-type: none;
+    background: rgb(230, 247, 39);
+    padding-right: 15px;
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav h1 {
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    color: rgb(239, 246, 246);
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+.container1 {
+    background-image: url(bgimg.jpg);
+}
+
+    
+section {
+    height: 30vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    
+}
+
+
+.xlarge {
+    padding-top: 80px;
+    padding-left: 400px;
+    font-size: 40px;
+}
+
+.lead1 {
+    font-size: 20px;
+    padding-left: 250px;
+    color: black;
+}
+
+.buttons {
+    padding-left: 400px;
+    padding-top: 100px;
+}
+
+.btn-primary {
+    margin-right: 75px;
+    font-size: 20px;
+    background-color: rgb(230, 247, 39);
+    color: white;
+    border-radius: 8px;
+}
+
+.btn-primary:hover {
+    background-color: rgb(243, 104, 132);
+}
+
+.btn-light {
+    font-size: 20px;
+    background-color: rgb(230, 247, 39);
+    color: white;
+    border-radius: 8px;
+}
+
+.btn-light:hover {
+    background-color: rgb(243, 104, 132);
+}
+
+.container2 {
+    background-color: rgb(241, 246, 246);
+}
+
+.textprimary {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.lead {
+    font-size: 20px;
+    color:black;
+}
+
+.form-group {
+    padding-right: 400px;
+    font-size: 35px;
+}
+
+.form-text {
+    font-size: 20px;
+    color:black;
+}
+
+.btnprimary {
+    font-size: 18px;
+    background-color:rgb(230, 247, 39) ;
+    color: black;
+    border-radius: 8px;
+}
+
+.btnprimary:hover {
+    background-color: rgb(243, 104, 132);
+}
+
+.my-1 {
+    font-size: 20px;
+    color:black;
+}
+
+.cost {
+    padding-left: 400px;
+    color: black;
+}
+
+input {
+    height: 30px;
+    width: 230px;
+}
+
+.cost2 {
+    padding-top: 30px;
+    padding-left: 200px;
+}
+.textprimary3{
+    padding-right: 900px;
+    font-size: 40px;
+}
+.lead3{
+    padding-right: 800px;
+    font-size: 20px;
+    padding-bottom: 80px;
+}
+.profilelight{
+    display: flex;
+    column-gap: 220px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(121, 10, 10);
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.profilelight h2,p,button{
+    font-size: 30px;
+    color: white;
+}
+.profilelight li{
+    font-size: 20px;
+    color: white;
+}
+.round-img{
+      width: 250px;
+      height: 250px;
+}
+.round-img3{
+    width: 250px;
+}
+.large,.lead4,.lead5,.lead6{
+    color: white;
+    font-size: 30px;
+}
+.btnlight4{
+    font-size: 25px;
+    background-color: rgb(230, 247, 39);
+    color: white;
+    border-radius: 8px;
+}
+.btnlight6{
+    padding-right: 800px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.btnlight4:hover {
+    background-color: rgb(243, 104, 132);
+}
+.profile2{
+    display: flex;
+    background-color: rgb(121, 10, 10);
+    column-gap: 220px;
+}
+.lead4{
+    padding-right: 120px;
+}
+.repo{
+    background-color: rgb(154, 78, 10);
+    color: white;
+}
+.repo h4{
+    font-size: 30px;
+    padding-left: 50px;
+}
+.lead6{
+    padding-left: 50px;
+}
+.text10{
+    color: black;
+    font-size: 40px;
+}
+.repo1{
+    color: black;
+    font-size: 40px;
+}
