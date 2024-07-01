@@ -15,9 +15,17 @@ Node.js: A JavaScript runtime for server-side programming.
 The application leverages Node.js as the server powered by a MongoDB database.
 
 Steps to run this website:
+
 Step-1: First clone the repository to your local computer.
+
 Step-2: Run the command 'npm install'
+
 Step-3: Go to client folder 'cd client'
+
 Step-4: Run the command 'npm install'
+
 Step-5: Come back to main folder 'cd ..'
+
 Step-6: Run the command 'npm run both'
+
+Now, you can explore the website...
